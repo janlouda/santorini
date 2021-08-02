@@ -1,2 +1,2 @@
 # santorini
-DIY Santorini Game
+DIY hra Santorini
